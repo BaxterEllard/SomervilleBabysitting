@@ -1,6 +1,5 @@
 * {
 	
-	color: black;
 	font-family: Helvetica;
 
 }
@@ -21,6 +20,7 @@
 #otherLinks:hover {
 
 	color: #E6E6E6;
+	text-decoration: none;
 
 }
 
@@ -56,4 +56,23 @@
 	background-color: black;
 
 	padding: 1% 1% 1% 1%;
+
+}
+
+.underline {
+
+	text-decoration: underline;
+
+}
+
+.slides {
+
+	color: white;
+
+}
+
+p {
+
+	color: black;
+
 }
